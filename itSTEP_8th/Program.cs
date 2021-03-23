@@ -13,7 +13,6 @@ namespace itSTEP_8th
             arr[0] = 5;
             arr[1] = 2;
             Console.WriteLine(arr[0]+" "+arr[1]);
-            
         }
     }
 }
